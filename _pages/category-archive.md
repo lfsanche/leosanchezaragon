@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: teaching
-permalink: /teaching/
+title: "sss"
+layout: research
+permalink: /research/
 author_profile: true
 ---
