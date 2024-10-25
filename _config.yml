@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Leonardo Sánchez-Aragón"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/LEO-GITHUB.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
