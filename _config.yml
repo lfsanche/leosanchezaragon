@@ -89,7 +89,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: research
     values:
       layout: single
       author_profile: true
@@ -99,7 +99,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: "_awards"
       type: pages
     values:
       layout: single
